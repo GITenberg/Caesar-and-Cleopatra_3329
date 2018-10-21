@@ -1104,7 +1104,7 @@ abruptly.) Caesar approaches.
 THEODOTUS (with much presence of mind). The King permits the Roman
 commander to enter!
 
-Caesar, plainly dressed, but, wearing an oak wreath to conceal his
+Caesar, plainly dressed, but wearing an oak wreath to conceal his
 baldness, enters from, the loggia, attended by Britannus, his secretary,
 a Briton, about forty, tall, solemn, and already slightly bald, with a
 heavy, drooping, hazel-colored moustache trained so as to lose its
@@ -1323,7 +1323,7 @@ BRITANNUS. On the contrary, Caesar, it is these Egyptians who are
 barbarians; and you do wrong to encourage them. I say it is a scandal.
 
 CAESAR. Scandal or not, my friend, it opens the gate of peace. (He rises
-and addresses Pothinus seriously.) Pothiuus: hear what I propose.
+and addresses Pothinus seriously.) Pothinus: hear what I propose.
 
 RUFIO. Hear Caesar there.
 
@@ -2559,7 +2559,7 @@ CENTURION (quickly). The two extra men pass the alarm to the south
 posts. One man keep guard here. The rest with me--quick.
 
 The two auxiliary sentinels run off to the south. The Centurion and his
-guard run of northward; and immediately afterwards the bucina sounds.
+guard run off northward; and immediately afterwards the bucina sounds.
 The four porters come from the palace carrying a carpet, followed by
 Ftatateeta.
 
@@ -2791,10 +2791,11 @@ BRITANNUS. Have you not been there? Have you not seen them? What Briton
 speaks as you do in your moments of levity? What Briton neglects to
 attend the services at the sacred grove? What Briton wears clothes
 of many colors as you do, instead of plain blue, as all solid, well
-esteemed men should? These are moral questions with us. CAESAR. Well,
-well, my friend: some day I shall settle down and have a blue toga,
-perhaps. Meanwhile, I must get on as best I can in my flippant Roman
-way. (Apollodorus comes past the lighthouse.) What now?
+esteemed men should? These are moral questions with us.
+
+CAESAR. Well, well, my friend: some day I shall settle down and have a
+blue toga, perhaps. Meanwhile, I must get on as best I can in my
+flippant Roman way. (Apollodorus comes past the lighthouse.) What now?
 
 BRITANNUS (turning quickly, and challenging the stranger with official
 haughtiness). What is this? Who are you? How did you come here?
@@ -3434,7 +3435,7 @@ POTHINUS. And he is not angry.
 
 CLEOPATRA. He promises to send him to Egypt to please me!
 
-POTHINUS. I do not understand this man?
+POTHINUS. I do not understand this man.
 
 CLEOPATRA (with superb contempt). YOU understand Caesar! How could you?
 (Proudly) I do--by instinct.
@@ -4717,7 +4718,7 @@ ridiculous to hear you call her Totateeta.
 CAESAR. What! As much a child as ever, Cleopatra! Have I not made a
 woman of you after all?
 
-CLEOPATRA. Oh, it is you, who are a great baby: you make me seem silly
+CLEOPATRA. Oh, it is you who are a great baby: you make me seem silly
 because you will not behave seriously. But you have treated me badly;
 and I do not forgive you.
 
@@ -5081,8 +5082,8 @@ As to Caesar's sense of humor, there is no more reason to assume that he
 lacked it than to assume that he was deaf or blind. It is said that on
 the occasion of his assassination by a conspiracy of moralists (it is
 always your moralist who makes assassination a duty, on the scaffold or
-off it), he defended himself until the good Brutes struck him, when he
-exclaimed "What! you too, Brutes!" and disdained further fight. If this
+off it), he defended himself until the good Brutus struck him, when he
+exclaimed "What! you too, Brutus!" and disdained further fight. If this
 be true, he must have been an incorrigible comedian. But even if we
 waive this story, or accept the traditional sentimental interpretation
 of it, there is still abundant evidence of his lightheartedness and
